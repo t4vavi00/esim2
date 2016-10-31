@@ -1,3 +1,5 @@
+<?php include 'menu.php'; 
+?>
 <h1>PHP Array</h1>
 
 <?php
@@ -31,3 +33,5 @@
 	?>
 
 </TABLE>
+<?php include 'footer.php'; 
+?>

@@ -1,3 +1,5 @@
+<?php include 'menu.php'; 
+?>
 <h1>Testataan get-metodia</h1>
 
 <form method="get" action="get.php">
@@ -19,4 +21,6 @@
 	}
 	
 
+?>
+<?php include 'footer.php'; 
 ?>
